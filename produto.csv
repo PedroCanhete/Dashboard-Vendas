@@ -1,0 +1,206 @@
+produto_id,produto,preco,marca,sku,condicao
+2706,Blusa Cinza,590.0,Mixed,297627.0,Usado
+3451,Vestido Ombro Só,250.0,Lemon Cola,295317.0,Usado
+3820,Shorts Jeans Tye Dye,139.0,Lezalez,252560.0,Usado
+3829,Sneaker Monograma Bege,2630.0,Louis Vuitton,256175.0,Usado
+3865,Bolsa Clássica Roxa,6500.0,Christian Dior,165834.0,Usado
+4307,Bolsa Intrecciato Caramelo,6175.0,Bottega Veneta,301305.0,Usado
+4553,Blusa Preta Aplicação,110.0,Zara,232886.0,Usado
+4835,Blazer Cinza E Azul Marinho,560.0,Levi's,105695.0,Usado
+4853,Vestido Off White Franjas,100.0,Animale,295417.0,Usado
+5292,Saia Jeans Forest,576.0,Mixed,222683.0,Novo com etiqueta
+5412,Camiseta Tencel Umay,788.0,Mixed,257373.0,Novo com etiqueta
+5567,Vestido Médio Florl,210.0,Amaro,525428.0,Usado
+5995,Calça Linho Ten,398.0,Mixed,216052.0,Novo com etiqueta
+6137,Camisa Tear Folk,100.0,Mixed,114671.0,Novo com etiqueta
+6262,Camiseta Eternity,644.0,Mixed,247015.0,Novo com etiqueta
+6381,Camiseta Cindy Sky,586.0,Mixed,193567.0,Novo com etiqueta
+6699,Blusinha Azul Bic Laço,320.0,Argentum,299041.0,Usado
+6742,Casaco Lã Mescla,850.0,Rag & Bone,274341.0,Usado
+6769,Blazer Nude Botão,220.0,Zara,161490.0,Usado
+6888,Sapato Python,350.0,Cori,952821.0,Usado
+7193,Saia Preta Babado,320.0,Mixed,185450.0,Usado
+7729,Camisa Fio Animalprint,360.0,Bobô,302385.0,Usado
+7871,Vestido Zíper Fendi,420.0,Thelure,318544.0,Usado
+7940,Saia Roxa Estampada,1200.0,Miu Miu,930078.0,Usado
+8456,Camisa Acetinada Mostarda,360.0,Thelure,216957.0,Usado
+8673,Clutch Preta Brilho,490.0,Marc By Marcjacobs,222028.0,Usado
+8691,Blusinha Básica Mescla,180.0,Zara,304828.0,Usado
+8707,Regata Nadador Lilás,150.0,Animale,247619.0,Usado
+9397,Vestido Estampa Geométrica,345.0,Daslu,944025.0,Usado
+9809,Cropped Courino Texturas,260.0,H&m,312006.0,Usado
+9981,Bolsa Coral Saco,4000.0,Givenchy,278612.0,Usado
+10086,Óculos Metal,750.0,Christian Dior,319314.0,Usado
+10795,Blusinha Guipir Black,300.0,Banana Republic,224603.0,Usado
+11218,Calça Alfaiataria Preta,250.0,Le Lis Blanc,952813.0,Usado
+11736,Saia Guipir Nude,740.0,Mixed,324428.0,Usado
+12609,Calça Jeans Lavagem,320.0,Armani Exchange,278260.0,Usado
+12751,Bata Pink Decote,400.0,Loft 747,264713.0,Novo com etiqueta
+12812,Sandália Nude Vazado,320.0,Schutz,522917.0,Usado
+12895,Óculos Redondo Purple,2600.0,Prada,237288.0,Usado
+13472,Peeptoe Preto Verniz,450.0,Jorge Bischoff,318875.0,Usado
+13705,Saia Fio Nude,180.0,Seal Brasil,208623.0,Usado
+13716,Vestido Longo Militar,450.0,Iorane,161326.0,Novo sem etiqueta
+13814,Vestido Nude Reta,550.0,Ellus,318626.0,Novo sem etiqueta
+13906,Blazer Alfaiataria Grafite,340.0,Forum,316222.0,Usado
+14074,Camisa Amarela Laço,450.0,Carol Bassi,309858.0,Usado
+14420,Vestido Rosé Drapeado,690.0,Vera Wang,295452.0,Novo sem etiqueta
+14836,Sandália Lona Cortiça,1100.0,Tory Burch,290573.0,Usado
+15470,Vestido Jeans Ombro,590.0,Mixed,292393.0,Usado
+15875,Vestido Recortes Cores,490.0,Alix Shop,257917.0,Usado
+16634,Vestido Estampa Bordado,480.0,Cantão,310150.0,Usado
+17258,Saia Transparente Cover,420.0,Luisa Farani,257900.0,Usado
+17329,Blusa Renda Pb,590.0,Isolda,525179.0,Usado
+17395,Vestido Amarelo Laço,1400.0,Kate Spade,108831.0,Novo com etiqueta
+17990,Saia Couro Tijolo,3800.0,Mixed,255109.0,Usado
+18128,Blusinha Tropical Azul,795.0,Reinaldo Lourenço,278292.0,Novo com etiqueta
+18212,Blusa Laranja Golinha,120.0,Zara,322472.0,Usado
+18751,Vestido Couro Franjas,990.0,Spezzato,304187.0,Novo com etiqueta
+18790,Vestido Recortes Cores,890.0,Bcbgmaxzria,264965.0,Usado
+19432,Camisa Jeans Destroyed,190.0,Zara,255486.0,Usado
+20029,Tênis Xadrez Tecido,294.0,Converse,121965.0,Usado
+21244,Óculos Lente Azulada,1120.0,D&g Dolce & Gabbana,209297.0,Usado
+21429,Casaco Preto Botões,390.0,Banana Republic,321380.0,Usado
+21516,Bolsa Vermelha Brilhos,320.0,Kipling,296103.0,Usado
+22407,Cropped Listras Florzinhas,200.0,Topshop,327426.0,Usado
+22568,Casaqueto Estampa Geométrica,245.0,Zara,244931.0,Usado
+23575,Camiseta Animal Print,210.0,284,283163.0,Usado
+24159,Regata Listras Azul,270.0,Osklen,304941.0,Usado
+25562,Calça Jeans Reta,320.0,Miss Sixty,263656.0,Usado
+27336,Calça Preta Resinada,250.0,Ellus,122068.0,Usado
+27546,Calça Veludo Cotelê,336.0,Joe's,236203.0,Usado
+27659,Blusa Tricolor,140.0,Zara,278232.0,Usado
+28699,Calça Verde Bolsos,420.0,Brooksfield,947048.0,Usado
+29012,Casaco Branco Costuras,525.0,Tigresse,257889.0,Usado
+29301,Blusa Renda Off,180.0,Espaço Fashion,307359.0,Usado
+29510,Jaqueta Jeans,360.0,Maria Bonita,920756.0,Usado
+29650,Vestido Estampa Pb,120.0,H&m,285576.0,Usado
+29893,Sandália Plataforma Corda,420.0,Luiza Barcelos,123641.0,Usado
+30211,Vestido Branco Renda,380.0,Felini,940042.0,Novo com etiqueta
+30263,Camiseta Neon Bordado,135.0,Zara,103277.0,Usado
+31651,Blusa Roxa Babadinhos,180.0,Zara,295222.0,Usado
+31835,Camisa Seda Pb,399.0,Mixed,258114.0,Usado
+32126,Saia Midi Cinto,210.0,Limone By Jade Seba,302628.0,Novo sem etiqueta
+32890,Vestido Preto Amarração,480.0,Mara Mac,303810.0,Usado
+32986,Blusa Babados Off-white,315.0,Animale,142695.0,Usado
+33348,Blusinha Mandala Tela,160.0,Oxyfit,257002.0,Novo com etiqueta
+33349,Vestido Listras Malha,270.0,Calvin Klein,307118.0,Usado
+33976,Camisa Xadrez Azul,120.0,Hollister,211116.0,Usado
+35129,Sapato Animal Spike,320.0,My Shoes,119135.0,Usado
+35682,Sandália Birkin Brilhos,250.0,Schutz,917151.0,Usado
+36195,Calça Jeans Off-white,110.0,Zara,142699.0,Usado
+36306,Vestido Degradê Babados,390.0,Le Lis Blanc,128383.0,Usado
+37384,Jaqueta Veludo Bordada,700.0,Animale,141732.0,Usado
+37794,Blusa Coração Pedrarias,105.0,Zara,304416.0,Usado
+38723,Top Cropped Coqueiros,80.0,Forever 21,192101.0,Usado
+39368,Shorts Neoprene Pb,279.0,Animale,305188.0,Usado
+39814,Blusinha Seda Off,390.0,Cori,218863.0,Usado
+40082,Vestido Malha Vitral,315.0,Forum,324684.0,Usado
+40508,Regata Bicolor Alcinha,245.0,Express,247166.0,Usado
+41189,Calça Acetinada Preta,160.0,Zara,176893.0,Usado
+41262,Calça Estampa Flare,390.0,Canal,304225.0,Usado
+41518,Calça Jeans Básica,260.0,Banana Republic,255410.0,Novo com etiqueta
+42913,Scarpin Bege Textura,2590.0,Jimmy Choo,318241.0,Usado
+43054,Calça Alfaiataria Rosé,320.0,Cheroy,307550.0,Usado
+43699,Shorts Estampa Cinto,169.0,Shoulder,247357.0,Usado
+43888,Regata Renda Branca,190.0,Farm,257576.0,Usado
+44207,Calça Estampa Pb,290.0,Fyi,294021.0,Usado
+44379,Calça Textura Vermelha,165.0,Zara,213039.0,Usado
+44424,Calça Jeans Costuras,360.0,Seven,241025.0,Usado
+45695,Blusa Malha Paetê,240.0,Le Lis Blanc,522405.0,Usado
+45878,Vestido Preto Bolso,210.0,Zara,114614.0,Usado
+45979,Vestido Longo Estampa,280.0,Farm,285174.0,Usado
+46573,Saia Amarela Faixa,350.0,Banana Republic,291820.0,Usado
+47405,Blusa Manga Estampa,310.0,Animale,294463.0,Usado
+47475,Calça Alfaiataria Preta,490.0,Mixed,263658.0,Usado
+47682,Vestido Malha Estampa,430.0,Forum,255197.0,Usado
+48483,Vestido Polo Lilás,400.0,Ralph Lauren,303082.0,Usado
+48872,Choker Pedra Branca,120.0,Fabiana Caterina,274593.0,Novo com etiqueta
+49026,Blusa Colorida Babado,240.0,Farm,318273.0,Usado
+49497,Regata Alcinha Paete,320.0,Morena Rosa,256324.0,Novo com etiqueta
+50330,Camisa Jeans Azul,210.0,Zara,250096.0,Usado
+50478,Regata Estampa Roxa,315.0,Fyi,917217.0,Usado
+50771,Casaco Preto Amarração,340.0,Maria Bonita,219782.0,Usado
+51238,Mala Bolsos Preta,410.0,Gap,286008.0,Usado
+51314,Cardigan Fio Floral,410.0,Le Lis Blanc,278231.0,Usado
+53138,Calça Jeans Trançada,690.0,Saad,224580.0,Novo com etiqueta
+53458,Vestido Renda Branco,450.0,Le Lis Blanc,239416.0,Usado
+53731,Camisa Verde Clássica,430.0,A.brand,308475.0,Usado
+53941,Cropped Escritas Pb,280.0,Linda de Morrer,917972.0,Usado
+54794,Bermuda Jeans Lavagem,350.0,Seven,295449.0,Usado
+55051,Bermuda Acetinada Preta,760.0,Paula Raia,920767.0,Usado
+55452,Vestido Longo Off-white,350.0,My Place,286176.0,Usado
+56350,Vestido Laranja Cavado,245.0,Steal The Look,315513.0,Usado
+56380,Calça Moletom Listras,179.0,Zara,218866.0,Usado
+56571,Vestido Seda Floral,420.0,Animale,178553.0,Usado
+57696,Vestido Estampa Verde,410.0,Farm,295337.0,Usado
+57708,Sapatilha Python Bege,990.0,Tory Burch,278531.0,Usado
+57815,Camisa Jeans Clássica,100.0,Hollister,164517.0,Usado
+58245,Vestido Preto Franzido,120.0,H&m,248709.0,Usado
+58472,Blusa Off-white Renda,150.0,Dica da Ka,307113.0,Usado
+59337,Blusa Tricot Mescla,390.0,Levi's,295977.0,Usado
+59784,Calça Zíper Preto,390.0,Banana Republic,314958.0,Usado
+60010,Vestido Estampa Azul,90.0,Forever 21,272238.0,Novo com etiqueta
+61071,Macacão Malha Preto,450.0,Animale,308101.0,Usado
+61356,Vestido Preto Estampa,390.0,Maria Filó,303328.0,Usado
+62594,Blusa Pontas Blue,300.0,Dkny,163810.0,Usado
+64127,Vestido Textura Branco,590.0,J. Crew,317928.0,Usado
+65473,Óculos Acetato Branco,210.0,Mango,944049.0,Usado
+66135,Colar Pedra Azul,490.0,Camila Klein,142193.0,Usado
+66255,Vestido Malha Cinza,390.0,All Saints Spitalfields,255377.0,Usado
+66539,Shorts Bordado Branco,399.0,Shoulder,211444.0,Novo com etiqueta
+67445,Blusa Verde Manga,320.0,Shoulder,295249.0,Usado
+68110,Casaqueto Fio Mescla,790.0,Mixed,294836.0,Usado
+70240,Blusa Tricot Lilás,290.0,Ralph Lauren,322504.0,Usado
+70673,Shorts Listras Bordados,210.0,American Eagle,126190.0,Usado
+70813,Saia Costura Preta,120.0,Erre Erre,167089.0,Usado
+71190,Saia Midi Tricolor,360.0,Tigresse,947046.0,Novo com etiqueta
+71770,Saia Pregas Azul,530.0,Carina Duek,303363.0,Novo com etiqueta
+71946,Shorts Destroyed Laranja,290.0,Le Lis Blanc,194102.0,Usado
+72621,Capa Fio Marrom,179.0,Zara,304783.0,Usado
+72667,Saia Pregas Preta,139.0,Zara,205904.0,Usado
+73038,Blusa Veludo Flores,90.0,Isa Kulikovski,248238.0,Usado
+73692,Shorts Estampa Floral,90.0,Zara,238011.0,Usado
+74506,Saia Tweed Mescla,420.0,Spezzato,238106.0,Usado
+74864,Vestido Jeans Babados,130.0,Zara,219248.0,Usado
+75557,Saia Pregas Preta,90.0,Zara,127344.0,Usado
+75706,Shorts Poá Pb,100.0,Forever 21,258661.0,Usado
+77079,Saia Evasê Cinza,100.0,Zara,260523.0,Usado
+77558,Bota Veludo Azul,790.0,A.brand,142974.0,Novo sem etiqueta
+79079,Regata Nude Textura,320.0,Gregory,247347.0,Usado
+79551,Shorts Jeans Destroyed,290.0,Sacada,213739.0,Usado
+80644,Bolsa Azul Candy,990.0,Lauren Ralph Lauren,289991.0,Usado
+81822,Vestido Verde Estampa,390.0,Animale,239208.0,Usado
+82257,Clutch Preta Pregas,1600.0,Red Valentino,296471.0,Usado
+82990,Calça Estampa Azul,450.0,Tigresse,267673.0,Usado
+83009,Body Babado Pb,280.0,Karmani,263899.0,Usado
+83792,Calça Costuras Bege,390.0,Agilità,313737.0,Usado
+83795,Vestido Estampa Color,310.0,Cantão,309928.0,Usado
+83866,Vestido Xadrez Pb,990.0,Skazi,252614.0,Novo com etiqueta
+84176,Camisa Xadrez Verde,310.0,Joe Fresh,322482.0,Usado
+84692,Tênis Tecido Purple,499.0,Adidas,101494.0,Novo sem etiqueta
+84743,Blusa Listrada Malha,120.0,Track & Field,287524.0,Usado
+85154,Vestido Ombro Pb,420.0,Dress&co,255995.0,Usado
+86243,Sapatilha P&B Zebra,350.0,Jorge Bischoff,909166.0,Novo sem etiqueta
+86302,Body Estampa Corações,139.0,Carter’s,214670.0,Usado
+86544,Macaquinho Tricot Bege,50.0,Bazar Genial,259479.0,Usado
+86845,Bermuda Listras Bolsos,110.0,Toca do Coelho,256800.0,Usado
+87156,Vestido Floral Laço,160.0,Sweet Cotton,263312.0,Usado
+87711,Conjunto Body Calça,140.0,Bazar Genial,179288.0,Usado
+88368,Blusa Malha Azul,250.0,Talie Nk,254726.0,Usado
+89100,Vestido Longo Preto,4200.0,Barbara Bela,104978.0,Usado
+89334,Pantacourt Amarração Verde,350.0,Ateliê de Calças,220768.0,Novo com etiqueta
+91248,Vestido Estampa Laço,45.0,H&M,255446.0,Usado
+91498,Blusa Babados Cats,130.0,H&m,253257.0,Usado
+93262,Sandália Prata Pedraria,450.0,Thay Ribas,233379.0,Usado
+95805,Blusa Fio Correntes,100.0,Zara,188980.0,Usado
+97039,Calça Jeans Ilhós,320.0,Colcci,947042.0,Usado
+98640,Calça Jeans Costuras,990.0,Diesel,312258.0,Usado
+98964,Saia Lurex Color,280.0,Colcci,111937.0,Usado
+100460,Vestido Azul Franzido,890.0,Cris Barros,310953.0,Usado
+100481,Bomber Tricot Off,410.0,Sacada,208772.0,Usado
+100484,Calça Jeans Pantacourt,320.0,Sacada,279886.0,Usado
+100932,Sapato Cetim Pink,3900.0,Christian Louboutin,304370.0,Usado
+100939,Blusa Suede Caramelo,310.0,Dress&co,227144.0,Usado
+100961,Vestido Preto Renda,480.0,Dress&co,175945.0,Usado
+100983,Blusa Crochê Branca,350.0,Galeria Tricot,222915.0,Usado
