@@ -1,4 +1,4 @@
-# Análise de Vendas em E-commerce – Projeto Power BI e Python
+# Análise de Vendas em E-commerce 
 
 Este projeto tem como objetivo analisar o desempenho de vendas de um e-commerce utilizando técnicas de análise exploratória e construção de dashboards interativos. Com o suporte de Python, SQL e Power BI, foram extraídas métricas essenciais para entender a performance comercial, o comportamento dos clientes e apoiar decisões estratégicas.
 
@@ -31,3 +31,5 @@ Importação, exploração e limpeza dos dados no Python.
 
 ## Fonte dos Dados
 Base fictícia de vendas para e-commerce, simulando dados reais de operações comerciais. O dump para os dados está no [link](https://drive.google.com/file/d/1gvvTVYqdP7Yvo4SLAl4Mt6JtAUcH3SMJ/view)
+
+## Veja a Dashboard Completa [Aqui](https://app.powerbi.com/groups/me/reports/3eaa70b4-a60c-4ba0-9f20-ad6071fe76f7/8705e00e5f76a9296719?experience=power-bi)
